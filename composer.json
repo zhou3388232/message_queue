@@ -1,13 +1,13 @@
 {
-    "name": "jenner/message_queue",
+    "name": "zhou3388232/message_queue",
     "description": "php message queue wrapper",
     "license": "MIT",
     "keywords": ["message queue"],
     "version": "1.0.0",
     "authors": [
         {
-            "name": "Jenner",
-            "email": "hypxm@qq.com"
+            "name": "zhou3388232",
+            "email": "2482891006@qq.com"
         }
     ],
     "require": {
@@ -16,7 +16,7 @@
  
     "autoload": {
         "psr-0": {
-            "Jenner\\Zebra\\MessageQueue": "src/"
+            "zhou3388232\\Zebra\\MessageQueue": "src/"
         }
     }
 }
