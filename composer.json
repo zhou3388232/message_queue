@@ -13,5 +13,10 @@
     ],
     "require": {
         "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-paths": {
+            "app/code/{$name}/": ["type:module"]
+        }
     }
 }
