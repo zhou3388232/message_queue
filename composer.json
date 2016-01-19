@@ -16,7 +16,7 @@
     },
     "extra": {
     "installer-paths": {
-      "app/Plugin/DebugKit": ["zhou3388232/message_queue"]
+      "app/Plugin/DebugKit/{$name}": ["zhou3388232/message_queue"]
     }
     }
 }
