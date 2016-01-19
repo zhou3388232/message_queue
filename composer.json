@@ -3,7 +3,7 @@
     "description": "php message queue wrapper",
     "license": "MIT",
     "keywords": ["message queue"],
-    "version": "1.0.0",
+    "version": "1.1.0",
     "authors": [
         {
             "name": "zhou3388232",
