@@ -16,7 +16,7 @@
     },
     "extra": {
         "installer-paths": {
-            "app/code/{$name}/": ["type:module"]
+            "app/code/{$name}/": ["type:magento-module"]
         }
     }
 }
