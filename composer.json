@@ -1,6 +1,6 @@
 {
     "name": "zhou3388232/message_queue",
-    "type": "magento2-plugin",
+    "type": "library",
     "description": "php message queue wrapper",
     "license": "MIT",
     "keywords": ["message queue"],
