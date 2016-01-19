@@ -1,6 +1,11 @@
 {
     "name": "zhou3388232/message_queue",
     "description": "php message queue wrapper",
+    "extra": {
+        "installer-paths": {
+            "app/code/{$name}/": ["type:magento-module"]
+        }
+    },
     "type": "magento-module",
     "license": "MIT",
     "keywords": ["message queue"],
@@ -13,10 +18,5 @@
     ],
     "require": {
         "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-            "app/code/{$name}/": ["type:magento-module"]
-        }
     }
 }
