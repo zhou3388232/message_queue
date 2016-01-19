@@ -5,7 +5,7 @@
             "app/{$name}/": ["code"]
         }
     },
-    "type": "magento2-plugin",
+ 
     "description": "php message queue wrapper",
     "license": "MIT",
     "keywords": ["message queue"],
