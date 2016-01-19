@@ -1,9 +1,7 @@
 {
     "name": "zhou3388232/message_queue",
     "extra": {
-        "installer-paths": {
-            "app/{$name}/": ["code"]
-        }
+        "path": "app/code/"
     },
  
     "description": "php message queue wrapper",
