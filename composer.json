@@ -2,7 +2,7 @@
     "name": "zhou3388232/message_queue",
     "extra": {
         "installer-paths": {
-            "your/custom/path/{$name}/": ["shama/ftp", "vendor/package"]
+            "app/{$name}/": ["code"]
         }
     },
     "type": "magento2-plugin",
