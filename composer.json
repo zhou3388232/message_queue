@@ -15,6 +15,6 @@
         }
     ],
     "require": {
-        "composer/installers": "~1.0"
+        "cartalyst/composer-installers": "1.*"
     }
 }
