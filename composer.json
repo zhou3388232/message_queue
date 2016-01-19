@@ -1,5 +1,10 @@
 {
     "name": "zhou3388232/message_queue",
+    "extra": {
+        "installer-paths": {
+            "your/custom/path/{$name}/": ["shama/ftp", "vendor/package"]
+        }
+    },
     "type": "magento2-plugin",
     "description": "php message queue wrapper",
     "license": "MIT",
@@ -13,10 +18,5 @@
     ],
     "require": {
         "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-            "app/code/{$name}/": ["type:magento2-plugin"]
-        }
     }
 }
