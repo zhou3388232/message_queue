@@ -17,5 +17,4 @@
     "installer-paths": {
       "app/Plugin/DebugKit/{$name}": ["zhou3388232/message_queue"]
     }
-    }
 }
