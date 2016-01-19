@@ -3,10 +3,10 @@
     "description": "php message queue wrapper",
     "extra": {
         "installer-paths": {
-            "app/code/{$name}/": ["type:magento-module"]
+            "app/code/{$name}/": ["type:magento-library"]
         }
     },
-    "type": "magento-module",
+    "type": "magento-library",
     "license": "MIT",
     "keywords": ["message queue"],
     "version": "1.1.0",
