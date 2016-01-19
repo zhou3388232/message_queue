@@ -13,10 +13,5 @@
     ],
     "require": {
         "composer/installers": "~1.0"
-    },
-    "extra": {
-        "installer-paths": {
-          "app/Plugin/DebugKit/{$name}": ["zhou3388232/message_queue"]
-        }
     }
 }
