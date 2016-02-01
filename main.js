@@ -122,7 +122,7 @@
       ];
       for(var index = 0; index < markers.length; index++ ){
         var point = new BMap.Point(markers[index].position.lng,markers[index].position.lat);
-        var marker = new BMap.Marker(point,{icon:new BMap.Icon("./images/cursor.gif",new BMap.Size(20,30),{
+        var marker = new BMap.Marker(point,{icon:new BMap.Icon("http://www.raccoon-tech.com/wp-content/uploads/2016/01/cursor.gif",new BMap.Size(20,30),{
           imageOffset: new BMap.Size(markers[index].imageOffset.width,markers[index].imageOffset.height)
         })});
         var label = new BMap.Label(markers[index].title,{offset: new BMap.Size(25,5)});
